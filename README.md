@@ -4,6 +4,7 @@ Requires qb-multichar or something that can pick up where this script leaves off
 - dfs-firstspawn
 - qb-multichar
 - qb-spawn
+  
 whereas previously it was
 - sessionmanager
 - mapmanager
