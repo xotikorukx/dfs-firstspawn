@@ -3,7 +3,7 @@ Allows you as a server owner to remove all cfx-default resources except baseeven
 Requires qb-multichar or something that can pick up where this script leaves off. Your call stack should look like (for example)
 - dfs-firstspawn
 - qb-multichar
-  - lw-character
+  - lw-character (or the default character creator, I don't judge!)
 - qb-spawn
 
 **Notes**
