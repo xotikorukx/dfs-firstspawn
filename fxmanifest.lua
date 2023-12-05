@@ -6,6 +6,7 @@
 ]] 
 fx_version 'cerulean'
 games { 'gta5' }
+version '1.0.0'
 
 author 'Daemon Brooks <presortstd@dbrooks.email>'
 
@@ -14,3 +15,4 @@ client_scripts {
 }
 
 provide 'sessionmanager'
+provide 'spawnmanager'
