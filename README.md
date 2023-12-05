@@ -1,5 +1,10 @@
 # dfs-firstspawn
 Allows you as a server owner to remove all cfx-default resources except baseevents, [system]/[builders] (webpack, yarn), and optionally chat.
+Requires qb-multichar or something that can pick up where this script leaves off. Your call stack should look like (for example)
+- dfs-firstspawn
+- qb-multichar
+  - lw-character
+- qb-spawn
 
 **Notes**
 - This resource expects you have some semblance of an esx/qb/ox server in place to function. If you don't, you will spawn at `vector3(0,0,0)` as default danny and be unable to respawn without tx, qb-ambulancejob, etc
